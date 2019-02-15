@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LoginCaro</string>
+    <string name="iniciaSesion">Inicia Sesion</string>
+    <string name="nickName">NickName</string>
+    <string name="contraseña">Contraseña</string>
+    <string name="inicia">Inicia</string>
+    <string name="Carolina">Carolina</string>
+    <string name="contra">123456</string>
+    <string name="Bienvenido">Bienvenido...!</string>
+</resources>
